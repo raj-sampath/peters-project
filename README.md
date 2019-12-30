@@ -19,7 +19,7 @@
 	3. Date Recieved
 4. Setup a Calss using the ORM for the above mentioned structure.
 	
-### Putting it together
+### Putting it all together
 1. Setup a Contorller to Accept a request that appears on /record and records the IP of the.
 2. A Object is created with this IP and saved.
 3. On Object Save then send the response mentioned.
